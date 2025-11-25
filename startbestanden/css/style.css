@@ -240,6 +240,14 @@ main {
   padding: 0.4rem 0;
 }
 
+.errors p{
+    color: red;
+}
+
+.success p{
+    color: lightgreen;
+}
+
 /*--- socials ---*/
 #socials {
   display: flex;
